@@ -2,7 +2,7 @@
 
 Este repositório contém um pequeno exercício do curso **Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python** da **Escola Virtual - Fundação Bradesco**.
 
-## Conteúdo do Curso
+## Conteúdo do curso
 
 O curso aborda os seguintes conteúdos:
 
